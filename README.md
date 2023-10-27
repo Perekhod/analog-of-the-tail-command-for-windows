@@ -1,1 +1,1 @@
-# analog-of-the-tail-command-for-windows
+# Analog of the tail command for windows
